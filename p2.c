@@ -3,5 +3,5 @@ void main(void)
 {
     int num=10;
     printf("number=%d\n",num);
-    printf("good bye");
+
 }
